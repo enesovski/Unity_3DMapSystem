@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ca39d01cbaf562469d9f8c087884cf8, type: 3}
+  m_Name: Marker
+  m_EditorClassIdentifier: 
+  iconName: Navigation
+  iconSprite: {fileID: 0}
+  explanation: Navigation marker.
+  mapPrefab: {fileID: 5368851994033268091, guid: bedd552b9a163404ba30d20fef69d970,
+    type: 3}
+  displayOnUI: 1
+  displayOnCompass: 1
+  priority: 0

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ca39d01cbaf562469d9f8c087884cf8, type: 3}
+  m_Name: Temple
+  m_EditorClassIdentifier: 
+  iconName: Temple
+  iconSprite: {fileID: 21300000, guid: 9d97c3e6f10cd3a4897f18ca5cb66289, type: 3}
+  explanation: What ancient beliefs and secrets did this temple hide?
+  mapPrefab: {fileID: 117486740619440147, guid: 16ac0d84977ae0f4e8282f8117a2fecf,
+    type: 3}
+  displayOnUI: 1
+  displayOnCompass: 0
+  priority: -1

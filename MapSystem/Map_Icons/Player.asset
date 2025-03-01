@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ca39d01cbaf562469d9f8c087884cf8, type: 3}
+  m_Name: Player
+  m_EditorClassIdentifier: 
+  iconName: Player
+  iconSprite: {fileID: 21300000, guid: e7330b280fb51a84eb2707046c8179c5, type: 3}
+  explanation: 
+  mapPrefab: {fileID: 117486740619440147, guid: dc0d7de6e041a64438f271e813b44e3c,
+    type: 3}
+  displayOnUI: 1
+  displayOnCompass: 0
+  priority: 5
